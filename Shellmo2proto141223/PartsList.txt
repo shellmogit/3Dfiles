@@ -1,0 +1,33 @@
+Shellmo2 prototype ver 1.0
+
+Name : Number
+
+Core_5mmBase : 4
+Core_10mmBase : 2
+Core_BaseBoard : 1
+Core_HeadBoard : 1
+Core_MotorBase : 2
+
+Dragonia_FrameConnector : 4
+Dragonia_Holder : 4
+Dragonia_LeftFrame : 1
+Dragonia_RightFrame : 1
+Dragonia_TopFrame : 1
+Dragonia_Scale : 27
+
+Feeler_Base : 1
+Feeler_Horn_TypeA : 1
+
+PhoneStand_Base : 1
+PhoneStand_Clip : 1
+PhoneStand_Hinges : 1
+PhoneStand_Holder : 1
+PhoneStand_Link_v2 : 1
+PhoneStand_ServoHolder : 1
+
+RepWalker_Axis : 4
+RepWalker_ClawL : 3
+RepWalker_ClawR : 3
+RepWalker_Crank : 2
+RepWalker_Cring : 6
+RepWalker_Link : 6
